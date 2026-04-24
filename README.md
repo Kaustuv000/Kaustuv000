@@ -1,4 +1,4 @@
-# Hi , I am Kaustuv
+# Hi , I am Kaustuv working as a Software Engineer Intern @Warner Bros. Discovery
 # 💫 About Me:
 🔭 I’m currently pursuing M.Tech in IT with specialization in Data Analytics from NIT Jalandhar<br>
 🌱 I’m currently learning React and other web dev. tools<br>💬 I love problem solving <br>
